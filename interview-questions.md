@@ -98,6 +98,12 @@ https://en.wikipedia.org/wiki/Test-driven_development
 https://www.w3schools.com/js/js_classes.asp
 https://www.javascripttutorial.net/es6/javascript-class/
 
-- React
-- React State
-- CRUD
+- React - it's an open source, front-end JavaScript library that is used to build the user interface components of websites. Apparently this is used in the front end portions of Facebook. 
+https://reactjs.org/
+
+- React State - state is an built-in object for REACT that can store information from other objects. 
+https://www.w3schools.com/react/react_state.asp#:~:text=React%20components%20has%20a%20built,%2C%20the%20component%20re%2Drenders.
+
+- CRUD - basic functions performed regularly in programming. Stands for create, read, update, and delete. 
+https://www.codecademy.com/articles/what-is-crud
+
