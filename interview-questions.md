@@ -17,6 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. What is the difference between .map() and .filter()?
 
+higher-order functions
   Your answer: .map() is a method that takes in a function loops through its argument and returns the same type and length of an argument it is fed. .filter() does the same, except, it returns the product of a specified conditional within the function. The length could be larger or smaller than what the argument it is fed.   
 
   Researched answer: .map() is a method that creates a new array of elements of the same length of whatever array it was initially fed to its function. It allows the user to loop through every element in an array and manipulate it to whatever form necessary/wanted and returns a totally new array with the newly manipulated values. .filter() on the other hand, returns a subset of the array it is fed, based on conditions specified by its function. It is best used for when the user needs to identify certain items within an array. 
@@ -106,4 +107,3 @@ https://www.w3schools.com/react/react_state.asp#:~:text=React%20components%20has
 
 - CRUD - basic functions performed regularly in programming. Stands for create, read, update, and delete. 
 https://www.codecademy.com/articles/what-is-crud
-
